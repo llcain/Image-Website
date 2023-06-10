@@ -6,10 +6,17 @@
 
 h1 {
     font-family: fantasy;
+    font-size: 3em;
+    border-bottom: 2px solid pink;
+    width: 400px;
+    border-right: 2px solid pink;
+    box-shadow: 10px 5px 5px pink;
+    text-align: center;
 }
 
 img {
     width: 450px;
     height: 300px;
+    margin: 10px;
 }
 
